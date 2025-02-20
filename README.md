@@ -136,7 +136,7 @@ Me chamo Higor tenho 15 anos sou apaixonado por tecnologia. Estudo programação
     alt="GitHub stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=gamerhsfdm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=higorsoares2009&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     />
 
   <img
@@ -144,7 +144,7 @@ Me chamo Higor tenho 15 anos sou apaixonado por tecnologia. Estudo programação
     alt="GitHub stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamerhsfdm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorsoares2009&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
     />
           
           
