@@ -2,7 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Higor tenho 15 anos sou apaixonado por tecnologia. Estudo programação desde os 10 anos e atualmente estou cursando um técnico integrado em tecnologia. Sempre buscando novos desafios, já desenvolvi projetos no Roblox Studio, criando sistemas interativos, além de trabalhar na criação de aplicativos e WebSites.
 
 ---
 
