@@ -1,8 +1,5 @@
 # 👨‍💻 Higor Soares
 
-**`Desenvolvedor FullStack`**
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
